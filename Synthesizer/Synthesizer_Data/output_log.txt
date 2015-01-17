@@ -14,7 +14,7 @@ Platform assembly: C:\Users\Jay\Documents\Unity\Synthesizer\Synthesizer_Data\Man
 Loading C:\Users\Jay\Documents\Unity\Synthesizer\Synthesizer_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
 Platform assembly: C:\Users\Jay\Documents\Unity\Synthesizer\Synthesizer_Data\Managed\UnityEngine.UI.dll (this message is harmless)
 Loading C:\Users\Jay\Documents\Unity\Synthesizer\Synthesizer_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.456 seconds
+- Completed reload, in  0.308 seconds
 <RI> Initializing input.
 XInput1_3.dll not found.
 <RI> Input initialized.
